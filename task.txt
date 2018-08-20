@@ -1,0 +1,13 @@
+TASK for this project
+
+1. Add a route for all of your requests
+    ie. All other pages, JavaScript Files, Images (pngs and jpgs)
+
+
+Extra
+have a test with regular expressions
+(it is a good thing to learn, especially if you are having a form
+in your site which you want to have specific requirements to pass
+ie, password has to have 1 Uppercase, 1 Lowercase, 1 Number)
+
+https://regexr.com/
