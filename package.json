@@ -1,0 +1,24 @@
+{
+  "name": "node_server",
+  "version": "0.0.1",
+  "description": "Project for a basic node web server",
+  "main": "index.js",
+  "scripts": {
+    "dev:server" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18WDWU02/nodejs-webserver.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "server"
+  ],
+  "author": "Richard Hpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18WDWU02/nodejs-webserver/issues"
+  },
+  "homepage": "https://github.com/18WDWU02/nodejs-webserver#readme"
+}
