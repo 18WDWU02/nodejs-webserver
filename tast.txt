@@ -1,0 +1,17 @@
+TASK
+
+1. Using all the knowledge of Node JS so far, create an application which Can
+be used as a shopping list.
+You should be able to fill out an input field and the data gets saved into a
+file which will be hosted in the server.
+You should then be able to view the entire list on the front end.
+
+2. Delete products from the list which also deletes them from the file on the Server
+3. Edit product names on the list which would also edit them on the file on the Server
+
+Extra
+
+Create a separate Client (front end) and Server (back end) Node server which communicates
+to each other.
+All the product information would be stored in the server and the client would use
+ajax to get the data back.
